@@ -1,0 +1,120 @@
+/* body */
+body{
+    background-color: rgb(240, 200, 125);
+    align-items: center;
+}
+.container{
+    background: white;
+    height: 600px;
+    width: 820px;
+    align-items:center;
+    display: flex;
+    margin-top: 50px;
+    margin-left: 240px;
+}
+
+/* Image */
+.img img{
+    width: 410px;
+    height: 600px;
+    margin-top: 4px;
+}
+
+/* Form */
+.form{
+    margin-top: 30px;
+    margin-left: 80px;
+    align-items: center;       
+}
+
+/* button */
+.login{
+    background-color: blue;
+    margin-top: 30px;
+    width: 250px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.btn {
+    width: 250px;
+    border-radius: 5px;
+    border-color: transparent;
+    color: blue;
+    background-color: darkgray;
+        
+}
+.btn1{
+    width: 250px;
+    border-radius: 5px;
+    margin-top: 25px;
+    border-color: transparent;
+    background-color: rgb(13, 13, 68);
+    color: white;
+} 
+
+
+
+ /* Inputs */
+input{
+    border-top: none;
+    border-left: none;
+    border-right:none ;
+    border-color: blue;
+    width: 250px;
+    
+}
+
+
+/* Brand name */
+.brand{
+    font-size: 60px;
+    color: blue;
+    margin-bottom: auto;
+    margin-left: auto;  
+}
+
+
+
+/* others */
+#pass{
+    margin-top: 30px;
+}
+
+
+.or{
+    margin-left: 110px;
+}
+
+
+.tips{
+    margin-bottom: 40px;
+    margin-top: 0%;
+    font-size: medium;
+    color: black;
+
+}
+
+.username{
+    font-size: small;
+    color: blue;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+    
+        
+}
+.forgot{
+    color: blue;
+    font-size: small;
+    margin-left: 110px;
+    margin-bottom: auto;
+}
+
+
+ #usermsg, #passmsg{
+    font-size: small;
+    color: red;
+    margin-top: 0%; 
+ }

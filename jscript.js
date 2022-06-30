@@ -20,6 +20,4 @@ function sendData(){
         document.getElementById("passmsg").innerHTML="Please Enter your Password"
 
     } 
-
-
 }        
